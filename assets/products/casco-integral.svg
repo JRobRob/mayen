@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+  <rect width="900" height="700" fill="#f3f1ed"/>
+  <path d="M239 454c-23-142 53-275 195-311 164-42 320 60 346 220 7 44 3 85-12 124H610l-61-82H395l-56 49H239z" fill="#202124"/>
+  <path d="M397 225c112-45 246 7 289 111l-257 2-91 67c-9-78 12-142 59-180z" fill="#ef2e38"/>
+  <path d="M434 344h250c-4 36-17 68-38 96H516l-82-96z" fill="#111216"/>
+  <path d="M304 489h364" stroke="#c8c4bf" stroke-width="8" stroke-linecap="round"/>
+  <text x="60" y="620" font-family="Arial" font-size="30" font-weight="700" fill="#9d9993">FOTO DEMOSTRATIVA</text>
+</svg>

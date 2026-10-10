@@ -1,0 +1,2 @@
+MAYEN WEB V4
+Gestor local con edición de productos, soporte correcto de múltiples imágenes y exportación segura para publicación.

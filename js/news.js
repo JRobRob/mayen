@@ -1,0 +1,17 @@
+window.MAYEN_NEWS = [
+  {
+    "id": "1",
+    "type": "image",
+    "media": "assets/news/carrusel-1.jpg"
+  },
+  {
+    "id": "2",
+    "type": "image",
+    "media": "assets/news/carrusel-2.jpg"
+  },
+  {
+    "id": "3",
+    "type": "image",
+    "media": "assets/news/carrusel-3.jpg"
+  }
+];

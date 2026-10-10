@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+  <rect width="900" height="700" fill="#f3f1ed"/>
+  <path d="M350 130h145l32 84h68c28 0 50 22 50 50v265c0 34-27 61-61 61H336c-34 0-61-27-61-61V263c0-27 22-49 49-49h45l-19-84z" fill="#202124"/>
+  <rect x="337" y="300" width="245" height="150" rx="18" fill="#ef2e38"/>
+  <text x="459" y="392" text-anchor="middle" font-family="Arial" font-size="54" font-weight="900" fill="#fff">OIL</text>
+  <text x="60" y="640" font-family="Arial" font-size="30" font-weight="700" fill="#9d9993">FOTO DEMOSTRATIVA</text>
+</svg>

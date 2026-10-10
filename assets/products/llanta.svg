@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+  <rect width="900" height="700" fill="#f3f1ed"/>
+  <ellipse cx="450" cy="335" rx="210" ry="250" fill="#17181c"/>
+  <ellipse cx="450" cy="335" rx="105" ry="145" fill="#f3f1ed"/>
+  <path d="M332 118l52 82M465 88l-13 98M589 127l-49 78M270 230l87 42M629 240l-89 37M254 389l100-20M645 393l-100-21M305 519l75-69M586 523l-73-72" stroke="#ef2e38" stroke-width="18" stroke-linecap="round" opacity=".92"/>
+  <text x="60" y="650" font-family="Arial" font-size="30" font-weight="700" fill="#9d9993">FOTO DEMOSTRATIVA</text>
+</svg>

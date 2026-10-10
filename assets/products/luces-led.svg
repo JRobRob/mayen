@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+  <rect width="900" height="700" fill="#f3f1ed"/>
+  <circle cx="450" cy="330" r="190" fill="#1a1b1f"/>
+  <circle cx="450" cy="330" r="130" fill="#ef2e38"/>
+  <circle cx="450" cy="330" r="88" fill="#f9f7f1"/>
+  <path d="M450 126V65M450 595v-61M246 330h-61M715 330h-61M306 186l-45-45M639 519l-45-45M594 186l45-45M261 519l45-45" stroke="#202124" stroke-width="18" stroke-linecap="round"/>
+  <text x="60" y="620" font-family="Arial" font-size="30" font-weight="700" fill="#9d9993">FOTO DEMOSTRATIVA</text>
+</svg>

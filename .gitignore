@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+MAYEN_PUBLICAR.zip
+.DS_Store
+Thumbs.db

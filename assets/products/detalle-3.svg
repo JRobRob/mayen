@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+  <rect width="900" height="700" fill="#ece9e3"/>
+  <rect x="150" y="110" width="600" height="430" rx="28" fill="#fff" stroke="#d8d3cb" stroke-width="6"/>
+  <path d="M250 430l125-130 92 83 78-71 110 118H250z" fill="#202124" opacity=".12"/>
+  <circle cx="625" cy="230" r="46" fill="#ef2e38" opacity=".85"/>
+  <text x="450" y="605" text-anchor="middle" font-family="Arial" font-size="32" font-weight="700" fill="#77716a">ESPACIO PARA FOTO 3</text>
+</svg>

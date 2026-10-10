@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+  <rect width="900" height="700" fill="#f3f1ed"/>
+  <circle cx="430" cy="335" r="198" fill="none" stroke="#202124" stroke-width="56"/>
+  <circle cx="430" cy="335" r="70" fill="#f3f1ed" stroke="#ef2e38" stroke-width="30"/>
+  <path d="M575 187c65 47 108 124 108 211v65H548c-25 0-45-20-45-45V277c0-44 29-79 72-90z" fill="#ef2e38"/>
+  <text x="60" y="640" font-family="Arial" font-size="30" font-weight="700" fill="#9d9993">FOTO DEMOSTRATIVA</text>
+</svg>
